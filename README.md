@@ -70,10 +70,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6994CDEE&height=40&section=footer&text=&fontSize=0" width="100%"/>
 </div>
 
-### Hi there 👋
-
-
-
 <!--
 **99yeji13/99yeji13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
