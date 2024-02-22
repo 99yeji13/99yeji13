@@ -61,10 +61,6 @@
 
 
 -------
-
-<!-- My snake -->
-<img src="https://github.com/99yeji13/99yeji13/blob/output/mysnake.svg" width="100%">
-
 <br><br>
 <!-- Hit counter -->
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F99yeji13&count_bg=%23586AFF&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false"/>
