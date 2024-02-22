@@ -4,7 +4,7 @@
 <details>
 <summary>About Me</summary>
 <br><br>
- 
+
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:santasantaja@naver.com">
@@ -20,22 +20,18 @@
 
 ## 🔨 SKILLS 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <!-- Backend -->
-    <p><strong>Backend</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Python-6DB33F?style=for-the-badge&logo=Python&logoColor=white">
-    </div>
-    <!-- Frontend -->
-    <p><strong>Frontend</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-        <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
-    </div>
-    <!-- Database -->
-    <p><strong>Database</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-    </div>
+    <span>
+         <img src="https://img.shields.io/badge/Python-6DB33F?style=for-the-badge&logo=Python&logoColor=white">
+    </span>
+    <span>
+         <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
+    </span>
+    <span>
+         <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
+    </span>
+    <span>
+         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    </span>
     <br>
 </div>
 
