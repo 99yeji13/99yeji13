@@ -12,7 +12,7 @@
 ## 📞 Contact 📞
 <div style="display:flex;flex-direction:row;">
     <a href="mailto:santasantaja@naver.com">
-        <img src="https://img.shields.io/badge/Naver-EA4335?style=for-the-badge&logo=Naver&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Naver-6DB33F?style=for-the-badge&logo=Naver&logoColor=white"> 
     </a>
     <a href="https://open.kakao.com/o/s7G22ybg">
         <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
